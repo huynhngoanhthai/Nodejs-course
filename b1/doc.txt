@@ -1,4 +1,0 @@
-admin@gmail.com
-123456
-token
-kết nối server
