@@ -1,1 +1,1 @@
-console.log("hello b2");
+console.log("tôi có thay đổi mới ở đây.");
