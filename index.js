@@ -11,6 +11,7 @@ let date = "Monday";
  * concatenated result.
  * @returns The function `caCon` is returning the input `speak` concatenated with the string "meo".
  */
-function caCon (speak){
+function caCon(speak) {
     return speak + "meo";
 }
+const a = 12;
