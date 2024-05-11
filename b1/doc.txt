@@ -1,0 +1,6 @@
+thông tin admin 
+username 
+password 
+
+liên kết với database
+token 
